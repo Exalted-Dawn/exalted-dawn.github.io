@@ -690,7 +690,7 @@ footer a i {
     font-size: 1rem;
   }
   .swiper-button-next, .swiper-button-prev {
-    font-size: 2.5rem;
+    font-size: 3.5rem;
   }
   .swiper-button-next {
     right: 1.5rem;
@@ -759,6 +759,9 @@ footer a i {
   #character-img-gallery .mySlides .numbertext {
     width: 8rem;
     font-size: 1.25rem;
+  }
+  #scrollToTopBtn i {
+    font-size: 3.5rem;
   }
 }
 
