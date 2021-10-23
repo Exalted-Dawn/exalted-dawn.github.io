@@ -7,7 +7,7 @@ This is a website that showcases the original characters of the digital artist E
 Tech Used: 
 - HTML5
 - SCSS 
-- Bootstrap 4 
+- Bootstrap 4.6 
 - JavaScript 
 - jQuery
 - Animations
