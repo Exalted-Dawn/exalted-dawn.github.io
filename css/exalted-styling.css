@@ -781,6 +781,9 @@ footer a i {
   .swiper-slide-active a:hover img {
     transform: scale(1.5);
   }
+  .swiper-button-next, .swiper-button-prev {
+    font-size: 2.5rem;
+  }
   .swiper-button-next i, .swiper-button-prev i {
     opacity: .75;
   }
